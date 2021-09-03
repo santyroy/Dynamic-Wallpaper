@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DynamicWallpaperApp:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DynamicWallpaperApp_jar</output-path>
+    <root id="archive" name="DynamicWallpaperApp.jar">
+      <element id="module-output" name="DynamicWallpaperApp" />
+    </root>
+  </artifact>
+</component>
